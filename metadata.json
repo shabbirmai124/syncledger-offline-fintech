@@ -1,0 +1,6 @@
+{
+  "name": "SyncLedger — Offline-First Collaborative FinTech Engine",
+  "description": "Production-grade offline-first personal finance, group bill-splitting, optimistic concurrency control (OCC) sync engine, graph debt simplification, and linear regression forecasting workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
